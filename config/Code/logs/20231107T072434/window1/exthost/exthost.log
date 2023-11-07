@@ -1,0 +1,10 @@
+2023-11-07 07:24:35.380 [info] Extension host with pid 47557 started
+2023-11-07 07:24:35.380 [info] Skipping acquiring lock for /home/xito/.config/Code/User/workspaceStorage/25e567c392934cc16b82b6817a85e141.
+2023-11-07 07:24:35.404 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-11-07 07:24:35.408 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-07 07:24:35.420 [info] Eager extensions activated
+2023-11-07 07:24:35.536 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-07 07:24:35.537 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-07 07:24:39.294 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-11-07 07:24:40.394 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:vscode.videoPreview'
+2023-11-07 07:27:09.188 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

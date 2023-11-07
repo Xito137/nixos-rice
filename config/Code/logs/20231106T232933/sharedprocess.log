@@ -1,0 +1,3 @@
+2023-11-06 23:29:35.014 [info] Started initializing default profile extensions in extensions installation folder. file:///home/xito/.vscode/extensions
+2023-11-06 23:29:35.123 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/xito/.vscode/extensions Unable to create file 'vscode-userdata:/home/xito/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-11-06 23:29:35.124 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/xito/.vscode/extensions

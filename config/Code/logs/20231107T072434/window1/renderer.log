@@ -1,0 +1,4 @@
+2023-11-07 07:24:34.856 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-07 07:24:34.865 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'terminalContextMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-07 07:24:37.886 [info] [perf] Render performance baseline is 29ms
+2023-11-07 08:21:57.074 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/xito/Downloads)
